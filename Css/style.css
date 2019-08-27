@@ -3,8 +3,16 @@ img {
 }
 
 body {
-  text-align: center;
   margin-top: 100px;
+}
+
+hr {
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+.mainpart {
+  text-align: center;
 }
 
 .butcolor {
@@ -18,7 +26,8 @@ body {
   margin-top: 2px;
 }
 
-.labgoogle, a {
+.labgoogle,
+a {
   font-size: 18px;
 }
 
