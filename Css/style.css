@@ -1,0 +1,33 @@
+img {
+  width: 40%;
+}
+
+body {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.butcolor {
+  background-color: white;
+  line-height: 1.5;
+  border-radius: 7px;
+  text-align: center;
+}
+
+.butonfamily {
+  margin-top: 2px;
+}
+
+.labgoogle, a {
+  font-size: 18px;
+}
+
+.midspace {
+  margin-top: 12px;
+  line-height: 22px;
+}
+
+.lastspace {
+  margin-top: 18px;
+  line-height: normal;
+}
